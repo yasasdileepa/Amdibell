@@ -146,7 +146,7 @@ $ node bot.js
 												<td><a href="httsp://github.com/kgamdaofficial">BlackHunt</a></br>(Group Management)</td>
 												<td><a href="httsp://github.com/kgamdaofficial/">Gimhana</a></br>(Group Management)</td>
 												<td><ahref="httsp://github.com/kgamdaofficial/">Mr.hasiya</a></br>(Ideas)</td>
-												<td><a href="httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(Mamber)</td>
+												<td><a href="httsp://github.com/kgamdaofficial">Yasas dileepa</a></br>(Ideas)</td>
 												<td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(Mamber)</td>
 										</tbody>
 									</table>
