@@ -1,9 +1,10 @@
 <h2 align="center"> 🕵🔑🕯🎩☠️ Hellow ☠️🎩🕯🔑🕵 <br>I'm <br>⚖️🐝Black Suis🐝⚖️</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 
-<div align="center">
-  <img src="https://i.ibb.co/HTZDMQX/LOGO.jpg" width="300" height="300">      
-  <h1>👸QUEEN AMDIBELL👸</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72194&size=15&lines=Hi+im+Maraya+whatsapp+bot+coded+by+yasas+dileepa;You+can+made+Maraya+whatsapp+bot;And+funy+momen;Thanks+to+yasas+dileepa;And+adisha+lakshitha+%2C+KG+amda+%2C+MR+dina+and+Black+Amda;%E2%9D%A4%EF%B8%8F%F0%9F%A4%B4%E2%9D%A4%EF%B8%8F++;%F0%9F%A4%B4King+Maraya%F0%9F%A4%B4)](https://git.io/typing-svg)
+  <img src="https://i.ibb.co/99Nfwfy/a62902c0458a23d705492bb701371a43-cool-wallpapers-for-iphone-wallpaper-for-iphone.jpg" width="300" height="300">      
+  <h1>maraya 😼</h1>  
+       | © | MADE BY DILEEPA |
 
 	  
 	
@@ -12,15 +13,15 @@
     <img src="https://komarev.com/ghpvc/?username=AmdaOfficial&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/AmdaOfficial?tab=followers">
-    <img src="https://img.shields.io/github/followers/AmdaOfficial?color=ff69b4&label=Followers&style=plastic">
+  <a href="https://github.com/yasasdileepa?tab=followers">
+    <img src="https://img.shields.io/github/followers/yasasdileepa?color=ff69b4&label=Followers&style=plastic">
 
   </a>
 </p>
 	
 	
 <p align="center">
-  <a href="https://github.com/AmdaOfficial"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/8gh32jk565/blob/main/automated_repo.json?raw=True&logo=github"></a>
+  <a href="https://github.com/yasasdileepa"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/8gh32jk565/blob/main/automated_repo.json?raw=True&logo=github"></a>
   
   </a>
   <a href="https://github.com/AmdaOfficial">
@@ -71,7 +72,7 @@
 
 ```
 
-Amdibell බොට් රැජින WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
+Maraya බොට්  WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
 අනිසි ලෙස භාවිතා කිරීමේ සියලු ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
 මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
 ඊට අමතරව, එය පරිශීලකයින් සඳහා ප්ලග් ඉන් සහාය සක්‍රීය කරයි.
@@ -81,7 +82,7 @@ Amdibell බොට් රැජින WhatsApp සඳහා වන පරිශ�
 ```
 
 ```
-Amdibell bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+Maraya bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
 This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
 Additionally, it enables plug-in support for users.
@@ -93,7 +94,7 @@ HAVE A FUN!
 
 ### step 1
 
-[![Run on Repl.it](https://repl.it/badge/github/AmdaOffical/Amdibell)](https://replit.com/@KgAmda/Amdibell-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/AmdaOffical/Amdibell)](https://replit.com/@yasasdileepa/MARAYA-1?v=1)
 
 ### step 2
 
@@ -101,8 +102,8 @@ HAVE A FUN!
 
 
 
-## 🔎 What Amdibell bot?
-**Queen Amdibell bot,** is a WhatsApp helper bot written by [Amda] and Developed by [mr.pasiya and sithum]. Does not log into your account It is written on WhatsApp Web API.
+## 🔎 What maraya bot?
+**Queen Amdibell bot,** is a WhatsApp helper bot written by [Amda] and Developed by [adisha ]. Does not log into your account It is written on WhatsApp Web API.
 
 ### The Hard Method (Not Recommend)
 ```js
@@ -115,46 +116,12 @@ $ nano config.env
 $ node bot.js
 ```
 
-#### AmdA Team
+#### Maraya team
 
 <table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/fqn5sM7/LOGO.jpg" width="100" height="100" alt="KgAmda"></a></td>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/4my3Tvp/LOGO.jpg" width="100" height="100" alt="Mr.pasiya"></a></td>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/6Nb6hkx/LOGO.jpg" width="100" height="100" alt="no"></a></td>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/gdbjswr/LOGO.jpg" width="100" height="100" alt="sithum"></a></td>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/sWjm7g6/LOGO.jpg" width="100" height="100" alt="AmdiBell"></a></td>
-										                <td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/hYMLjVX/LOGO.jpg" width="100" height="100" alt="Mr.kaviya"></a></td>										                                                                                </tr>
-											<tr>
-												<td><a href="httsp://github.com/kgamdaofficial">KgAmda</a></br>(Founder)</td>
-												<td><a href="httsp://github.com/kgamdaofficial/">	Mr.pasiya</a></br>(Co-Admin)</td>
-												<td><a href="httsp://github.com/kgamdaofficial/">no</a></br>(Public Supportive)</td>
-												<td><a href="httsp://github.com/kgamdaofficial">	sithum</a></br>(Web developer)</td>
-												<td><a href="httsp://github.com/kgamdaofficial/">AmdiBell</a></br>(Graphic Designer)</td>
-												<td><a href="httsp://github.com/kgamdaofficial">Mr.kaviya</a></br>(Group Management)</td>
-											</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/3CP2DPR/LOGO.jpg" width="100" height="100" alt="BlackHunt"></a></td>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/cXVY9Yw/LOGO.jpg" width="100" height="100" alt="Gimhana"></a></td>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/nz7BbrN/LOGO.jpg" width="100" height="100" alt="Mr.hasiya"></a></td>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/8gMSvBB/LOGO.jpg" width="100" height="100" alt="Yasas dilipa"></a></td>
-												<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td>
-				                                                        </tr>
-											<tr>
-												<td><a href="httsp://github.com/kgamdaofficial">BlackHunt</a></br>(Group Management)</td>
-												<td><a href="httsp://github.com/kgamdaofficial/">Gimhana</a></br>(Group Management)</td>
-												<td><ahref="httsp://github.com/kgamdaofficial/">Mr.hasiya</a></br>(Ideas)</td>
-												<td><a href="httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(Mamber)</td>
-												<td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(Mamber)</td>
-										</tbody>
-									</table>
+										
 
-
-### What does Amda mean?
+### What does maraya mean?
 [Amda](https://tr.wikipedia.org/wiki/Amda), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
 
 <details>
@@ -186,6 +153,9 @@ Your account may be banned for the following reasons:
 ## Visit our official website to install the Whatsapp Bot :
 QR Code generator and full instructions available there.
  
+<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/2dw0THr/Screenshot-20211031-110753-Whats-App.jpg" width="100" height="100" alt="Yasas dilipa"></a></td><td><a href="httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(founder)</td><td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td><td><a href="httsp://github.com/kgamdaofficial">Adeesha</a></br>(co-host)</td>
+
+												<td><a 
 					
 
 ### License
