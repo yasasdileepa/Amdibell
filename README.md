@@ -9,7 +9,7 @@
 	  
 	
 <p align="center">
-  <a href="https://github.com/AmdaOfficial/Amdibell">
+  <a href="https://github.com/yasasdileepa/Maraya">
     <img src="https://komarev.com/ghpvc/?username=AmdaOfficial&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
@@ -58,13 +58,13 @@
     <img src="https://img.shields.io/github/languages/top/AmdaOfficial/Amdibell?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="httsp://github.com/AmdaOfficial">
+  <a href="httsp://github.com/yasasdileepa">
     <img src="https://img.shields.io/static/v1?label=Author&message=kg%20amda&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://wa.me/94761444438">
+  <a href="https://wa.me/94710995750">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-%20Amda%20-purple&style=plastic">
 
   </a>
